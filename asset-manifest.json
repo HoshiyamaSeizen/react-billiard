@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.248fa16f.css",
-    "main.js": "/static/js/main.d4886a61.js",
-    "index.html": "/index.html",
-    "main.248fa16f.css.map": "/static/css/main.248fa16f.css.map",
-    "main.d4886a61.js.map": "/static/js/main.d4886a61.js.map"
+    "main.css": "/react-billiard/static/css/main.248fa16f.css",
+    "main.js": "/react-billiard/static/js/main.d4886a61.js",
+    "index.html": "/react-billiard/index.html",
+    "main.248fa16f.css.map": "/react-billiard/static/css/main.248fa16f.css.map",
+    "main.d4886a61.js.map": "/react-billiard/static/js/main.d4886a61.js.map"
   },
   "entrypoints": [
     "static/css/main.248fa16f.css",
